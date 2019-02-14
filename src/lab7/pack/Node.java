@@ -1,6 +1,6 @@
 package lab7.pack;
 
-import lab6.Train;
+import lab7.Train;
 
 public class Node {
     private Node next;
